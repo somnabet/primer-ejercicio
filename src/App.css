@@ -1,0 +1,14 @@
+.form {
+  text-align: center;
+  border: 1px solid black;
+  margin: 19px;
+}
+
+label {
+  text-align: right;
+  padding-right: 10px;
+}
+
+.inputbox {
+  padding-top: 10px;
+}
